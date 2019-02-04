@@ -1,0 +1,413 @@
+﻿<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-transitional.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml">
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+<title>Untitled Document</title>
+<link href="css/bootstrap.min.css" rel="stylesheet" type="text/css" />
+<link href="css/external style.css" rel="stylesheet" type="text/css" />
+<script type="text/javascript" src="js/jquery-3.2.1.min.js"></script>
+<script src="js/bootstrap.min.js">
+</script>
+	<script>
+	
+	
+	$(document).ready(function(){
+		$("p").mouseover(function(){
+			$(this).css({"background":"darkred","color":"white"})
+		});
+		$("p").mouseout(function(){
+			$(this).css({"background":"white","color":"black"})
+		});
+	});
+	
+	</script>
+
+</head>
+
+<body>
+<div class="container-fluid" id="first">
+<div class="row" id="first_row">
+<div class="col-sm-3">
+<img src="logos/website-development-500x500.png" class="img-responsive"  width="200" align="right"/>
+</div>
+<div class="col-sm-9">
+<h1><a href="#">WebSite<br /> 
+        &nbsp; &nbsp; &nbsp; &nbsp;&nbsp;Learner</a></h1>
+        <h3><a href="#">ITS A HTML, CSS, JAVASCRIPT, JQUERY, BOOTSTRAP LEARNER WEBSITE.....</a></h3>
+        </div>
+</div>
+
+	</div>
+	<!--////////////////First section finished/////////////////-->
+	<nav>
+	<div class="container-fluid">
+	<div class="row">
+		<div class="col-sm-4">
+			<div class="brand">
+		<a href="#">PUSHKAR SINGH</a>
+		</div>
+		</div>
+		<div class="col-sm-8">
+			<ul class="nav-tabs">
+			<li class="active"><a href="#home" data-toggle="tab">Home</a></li>
+			<li><a href="#about"data-toggle="tab">About Us</a></li>
+			<li><a href="#service"data-toggle="tab">Courses</a></li>
+			<li><a href="#contects"data-toggle="tab">Contects</a></li>
+			<li><a href="#blogs"data-toggle="tab">News</a></li>
+		</ul>
+		</div>
+		
+	</div>
+		
+		
+	</div>
+</nav>
+<!--////////////////Nav section finished/////////////////-->
+<div class="container-fluid">
+	<div class="row">
+		<div class="col-sm-8" style="margin-top: 60px; text-align: justify;">
+			<div class="tab-content">
+				<div class="tab-pane active" id="home"><h1 style="text-align: center; color: #0846D7;">HOME</h1>
+				<h3><mark class="bg-primary">Html Basic</mark></h3>
+				
+				<P>Li Europan lingues es membres del sam familie. Lor separat existentie es un myth. Por scientie, musica, sport etc, litot Europa usa li sam vocabular. Li lingues differe solmen in li grammatica, li pronunciation e li plu commun vocabules. Omnicos directe al desirabilite de un nov lingua franca: On refusa continuar payar custosi traductores. At solmen va esser necessi far uniform grammatica, pronunciation e plu sommun paroles. Ma quande lingues coalesce,</p>
+				<p>Li Europan lingues es membres del sam familie. Lor separat existentie es un myth. Por scientie, musica, sport etc, litot Europa usa li sam vocabular. Li lingues differe solmen in li grammatica, li pronunciation e li plu commun vocabules. Omnicos directe al desirabilite de un nov lingua franca: On refusa continuar payar custosi traductores. At solmen va esser necessi far uniform grammatica, pronunciation e plu sommun paroles. Ma quande lingues coalesce, li grammatica del resultant lingue es plu simplic e regulari quam ti del coalescent lingues. Li nov lingua franca va esser plu simplic e regulari quam li existent Europan lingues. It va esser tam simplic quam Occidental in fact, it va esser Occidental. A un Angleso it va semblar un simplificat Angles, quam un skeptic Cambridge amico dit me que Occidental es.Li Europan lingues es membres del sam familie. Lor separat existentie es un myth. Por scientie, musica, sport etc, litot Europa usa li sam vocabular. Li lingues differe solmen in li grammatica, li pronunciation e li plu commun vocabules. Omnicos directe al desirabilite de un nov lingua franca: On refusa continuar payar custosi traductores. </p>
+				<br>
+				<h3><mark class="bg-primary">HTML Topic:1 </mark></h3>
+				<p>
+				 li grammatica del resultant lingue es plu simplic e regulari quam ti del coalescent lingues. Li nov lingua franca va esser plu simplic e regulari quam li existent Europan lingues. It va esser tam simplic quam Occidental in fact, it va esser Occidental. A un Angleso it va semblar un simplificat Angles, quam un skeptic Cambridge amico dit me que Occidental es.Li Europan lingues es membres del sam familie.  </P>
+				 <br>
+				 <h3><mark class="bg-primary">HTML Topic:2 </mark></h3>
+				 <p>But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that are extremely painful.</p><br>
+				 
+				  <h3><mark class="bg-primary">HTML Topic:3 </mark></h3>
+				 <p>Lor separat existentie es un myth. Por scientie, musica, sport etc, litot Europa usa li sam vocabular. Li lingues differe solmen in li grammatica, li pronunciation e li plu commun vocabules. Omnicos directe al desirabilite de un nov lingua franca: On refusa continuar payar custosi traductores.</p>
+				 <br>
+				  <h3><mark class="bg-primary">HTML Topic:4 </mark></h3>
+				  
+				  <p>Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure? On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire, that they cannot foresee
+</p>
+				 </div>
+			<!--End of Home Section here........-->
+				 
+				 
+			<div class="tab-pane" id="about"><h1 style="text-align: center; color: #0846D7;">ABOUT US</h1>
+			<h3><mark class="bg-primary">Team-Members</mark></h3>
+			
+			
+			
+			<p><img  src="logos/images (8).jpg" class="img-thumbnail img-responsive" width="200" align="left" >
+			grammatica del resultant lingue es plu simplic e regulari quam ti del coalescent lingues. Li nov lingua franca va esser plu simplic e regulari quam li existent Europan lingues. It va esser tam simplic quam Occidental in fact, it va esser Occidental. A un Angleso it va semblar un simplificat Angles, quam un skeptic Cambridge amico dit me que Occidental es.Li Europan lingues es membres del sam familie. Lor separat existentie es un myth. Por scientie, musica, sport etc, litot Europa usa li sam vocabular. Li lingues differe solmen in li grammatica
+			</p><br>
+			<br>
+			
+			
+			
+			<p><img src="logos/images (7).jpg" class="img-thumbnail img-responsive" width="200" align="right" >
+			<p> Omnicos directe al desirabilite de un nov lingua franca: On refusa continuar payar custosi traductores. At solmen va esser necessi far uniform grammatica, pronunciation e plu sommun paroles.grammatica del resultant lingue es plu simplic e regulari quam ti del coalescent lingues. Li nov lingua franca va esser plu simplic e regulari quam li existent Europan lingues. It va esser tam simplic quam Occidental in fact, it va esser Occidental. A un Angleso it va semblar un simplificat Angles, quam un skeptic Cambridge amico dit me que Occidental es.Li Europan lingues es membres del sam familie. Lor separat existentie es un myth. Por scientie, musica, sport etc, litot Europa usa li sam vocabular. Li lingues differe solmen in li grammatica
+			</p><br>
+			<br>
+			
+			
+			
+			
+			<p><img src="logos/images (6).jpg" class="img-thumbnail img-responsive" width="200" align="left" >
+			But I must explain to you how all this mistaken idea of denouncing pleasure and praising pain was born and I will give you a complete account of the system, and expound the actual teachings of the great explorer of the truth, the master-builder of human happiness. No one rejects, dislikes, or avoids pleasure itself, because it is pleasure, but because those who do not know how to pursue pleasure rationally encounter consequences that are extremely painful. Nor again is there anyone who loves or pursues or desires to obtain pain of itself, because it is pain, but because occasionally circumstances occur in which toil and pain can procure him some great pleasure. To take a trivial example, which of us ever undertakes laborious physical exercise, except to obtain some advantage from it? grammatica del resultant lingue es plu simplic e regulari quam ti del coalescent lingues. Li nov lingua franca va esser plu simplic e regulari quam li existent Europan lingues. It va esser tam simplic quam Occidental in fact, it va esser Occidental. A un Angleso it va semblar un simplificat Angles, quam un skeptic Cambridge amico dit me que Occidental es.Li Europan lingues es membres del sam familie. Lor separat existentie es un myth. Por scientie, musica, sport etc, litot Europa usa li sam vocabular. Li lingues differe solmen in li grammatica
+			</p><br>
+			<br>
+			
+			
+			
+			
+			<p><img src="logos/images (9).jpg" class="img-thumbnail img-responsive" width="200" align="right" >
+			But who has any right to find fault with a man who chooses to enjoy a pleasure that has no annoying consequences, or one who avoids a pain that produces no resultant pleasure? On the other hand, we denounce with righteous indignation and dislike men who are so beguiled and demoralized by the charms of pleasure of the moment, so blinded by desire, that they cannot foresee
+
+
+abc def ghi jkl mno pqrs tuv wxyz ABC DEF GHI JKL MNO PQRS TUV WXYZ !"§ $%& /() =?* '<> #|; ²³~ @`´ ©«» ¤¼× {} abc def ghi jkl mno pqrs tuv wxyz ABC DEF GHI JKL MNO PQRS TUV WXYZ !"§ $%& /() =?* '<> #|; ²³~ @`´ ©«» ¤¼× {} abc def ghi jkl mno pqrs tuv wxyz ABC DEF GHI JKL MNO PQRS TUV WXYZ !"§ $%& /() =?* '<> #|; ²³~ @`´ ©«» ¤¼× {} abc def ghi jkl mno pqrs tuv wxyz ABC DEF GHI JKL MNO PQRS TUV WXYZ !"§ $%& /() =?* '<> #|; ²³~ @`´ ©«» ¤¼× {} abc def ghi jkl mno pqrs tuv wxyz ABC DEF GHI JKL MNO PQRS TUV WXYZ !"§ $%& /() =?* '<> #|; ²³~ @`´ ©«» ¤¼× {} abc def ghi jkl mno pqrs tuv wxyz ABC DEF GHI JKL MNO PQRS TUV WXYZ !"§ $%& /() =?* '<> #|; ²³~ @`´ ©«» ¤¼× {} abc def ghi jkl mno pqrs tuv wxyz ABC DEF GHI JKL MNO PQRS TUV WXYZ !"§ $%& /() =?* '<> #|; ²³~ @`´ ©«» ¤¼× {}abc def ghi jkl mno pqrs tuv wxyz ABC DEF GHIgrammatica del resultant lingue es plu simplic e regulari quam ti del coalescent lingues. Li nov lingua franca va esser plu simplic e regulari quam li existent Europan lingues. It va esser tam simplic quam Occidental in fact, it va esser Occidental. A un Angleso it va semblar un simplificat Angles, quam un skeptic Cambridge amico dit me que Occidental es.Li Europan lingues es membres del sam familie. Lor separat existentie es un myth. Por scientie, musica, sport etc, litot Europa usa li sam vocabular. Li lingues differe solmen in li grammatica
+			</p><br>
+			<br>
+			
+			
+			
+			</div>
+			<!--end of about section here-->
+			
+			
+			
+		<div class="tab-pane" id="service"><h1  style="text-align: center; color: #0846D7;">COURSES</h1>
+		
+		<h3><mark class="bg-primary">HTML</mark></h3>
+		<div class="course_img">
+		<p><img src="logos/HTML5_Logo_512.png" class="img-responsive" align="left">
+		Li Europan lingues es membres del sam familie. Lor separat existentie es un myth. Por scientie, musica, sport etc, litot Europa usa li sam vocabular. Li lingues differe solmen in li grammatica, li pronunciation e li plu commun vocabules. Omnicos directe al desirabilite de un nov lingua franca: On refusa continuar payar custosi traductores. At solmen va esser necessi far uniform grammatica, pronunciation e plu sommun paroles. Ma quande lingues coalesce,
+		</p><br>
+		
+		
+		<h3><mark class="bg-primary">CSS</mark></h3>
+		<p><img src="logos/css3.png" class="img-responsive" align="right">
+		Li Europan lingues es membres del sam familie. Lor separat existentie es un myth. Por scientie, musica, sport etc, litot Europa usa li sam vocabular. Li lingues differe solmen in li grammatica, li pronunciation e li plu commun vocabules. Omnicos directe al desirabilite de un nov lingua franca: On refusa continuar payar custosi traductores. At solmen va esser necessi far uniform grammatica, pronunciation e plu sommun paroles. Ma quande lingues coalesce,
+		</p><br>
+		
+		
+		
+		<h3><mark class="bg-primary">JAVASCRIPT</mark></h3>
+		<p><img src="logos/javascript-logo-E967E87D74-seeklogo.com.png" class="img-responsive" align="left">
+		Li Europan lingues es membres del sam familie. Lor separat existentie es un myth. Por scientie, musica, sport etc, litot Europa usa li sam vocabular. Li lingues differe solmen in li grammatica, li pronunciation e li plu commun vocabules. Omnicos directe al desirabilite de un nov lingua franca: On refusa continuar payar custosi traductores. At solmen va esser necessi far uniform grammatica, pronunciation e plu sommun paroles. Ma quande lingues coalesce,
+		</p><br>
+		
+		
+		
+		<h3><mark class="bg-primary">BOOTSTRAP</mark></h3>
+		<p><img src="logos/bootstrap1.png" class="img-responsive"  align="right">
+		Li Europan lingues es membres del sam familie. Lor separat existentie es un myth. Por scientie, musica, sport etc, litot Europa usa li sam vocabular. Li lingues differe solmen in li grammatica, li pronunciation e li plu commun vocabules. Omnicos directe al desirabilite de un nov lingua franca: On refusa continuar payar custosi traductores. At solmen va esser necessi far uniform grammatica, pronunciation e plu sommun paroles. Ma quande lingues coalesce,
+		</p><br>
+		
+		
+		
+		
+		<h3><mark class="bg-primary">PHP</mark></h3>
+		<p><img src="logos/php.png" class="img-responsive"  align="left">
+		Li Europan lingues es membres del sam familie. Lor separat existentie es un myth. Por scientie, musica, sport etc, litot Europa usa li sam vocabular. Li lingues differe solmen in li grammatica, li pronunciation e li plu commun vocabules. Omnicos directe al desirabilite de un nov lingua franca: On refusa continuar payar custosi traductores. At solmen va esser necessi far uniform grammatica, pronunciation e plu sommun paroles. Ma quande lingues coalesce,
+		</p><br>
+		
+		
+		
+		
+		<h3><mark class="bg-primary">MYSQL</mark></h3>
+		<p><img src="logos/powered-by-mysql-167x86.png" class="img-responsive"  align="right">
+		Li Europan lingues es membres del sam familie. Lor separat existentie es un myth. Por scientie, musica, sport etc, litot Europa usa li sam vocabular. Li lingues differe solmen in li grammatica, li pronunciation e li plu commun vocabules. Omnicos directe al desirabilite de un nov lingua franca: On refusa continuar payar custosi traductores. At solmen va esser necessi far uniform grammatica, pronunciation e plu sommun paroles. Ma quande lingues coalesce,
+		</p><br>
+		
+		
+		
+		
+		<h3><mark class="bg-primary">JQUERY</mark></h3>
+	
+		<p><img src="logos/jquery-logo-png--800.gif" class="img-responsive"  align="left">
+		Li Europan lingues es membres del sam familie. Lor separat existentie es un myth. Por scientie, musica, sport etc, litot Europa usa li sam vocabular. Li lingues differe solmen in li grammatica, li pronunciation e li plu commun vocabules. Omnicos directe al desirabilite de un nov lingua franca: On refusa continuar payar custosi traductores. At solmen va esser necessi far uniform grammatica, pronunciation e plu sommun paroles. Ma quande lingues coalesce,
+		</p><br>
+		
+		
+		
+		
+		<h3><mark class="bg-primary">WORDPRESS</mark></h3>
+		<p><img src="logos/HTML5_Logo_512.png" class="img-responsive"  align="right">
+		Li Europan lingues es membres del sam familie. Lor separat existentie es un myth. Por scientie, musica, sport etc, litot Europa usa li sam vocabular. Li lingues differe solmen in li grammatica, li pronunciation e li plu commun vocabules. Omnicos directe al desirabilite de un nov lingua franca: On refusa continuar payar custosi traductores. At solmen va esser necessi far uniform grammatica, pronunciation e plu sommun paroles. Ma quande lingues coalesce,
+		</p>
+		
+			</div>
+		
+		</div>
+		<!--end of course section here-->
+		
+		
+		
+		
+		<div class="tab-pane" id="contects"><h1  style="text-align: center; color: #0846D7;">CONTECTS</h1>
+		<iframe src="index/index.html" frameborder="0" scrolling="no" width="880" height="1000"></iframe>
+		
+		</div>
+		<!--end of contects section here-->
+		
+		
+		
+
+		<div class="tab-pane" id="blogs"><h1 style="text-align: center; color: #0846D7;">NEWS</h1>
+		
+		<h3><mark class="bg-primary">Leatest News</mark></h3>
+		<p>Admission Remaning Still Here......</p>
+		
+		<p>Li Europan lingues es membres del sam familie. Lor separat existentie es un myth. Por scientie, musica, sport etc, litot Europa usa li sam vocabular. Li lingues differe solmen in li grammatica, li pronunciation e li plu commun vocabules. Omnicos directe al desirabilite de un nov lingua franca: On refusa continuar payar custosi traductores. At solmen va esser necessi far uniform grammatica, pronunciation e plu sommun paroles. Ma quande lingues coalesce,
+
+Li Europan lingues es membres del sam familie. Lor separat existentie es un myth. Por scientie, musica, sport etc, litot Europa usa li sam vocabular. Li lingues differe solmen in li grammatica, li pronunciation e li plu commun vocabules. Omnicos directe al desirabilite de un nov lingua franca: On refusa continuar payar custosi traductores. At solmen va esser necessi far uniform grammatica, pronunciation e plu sommun paroles. Ma quande lingues coalesce, li grammatica del resultant lingue es plu simplic e regulari quam ti del coalescent lingues. Li nov lingua franca va esser plu simplic e regulari quam li existent Europan lingues. It va esser tam simplic quam Occidental in fact, it va esser Occidental. A un Angleso it va semblar un simplificat Angles, quam un skeptic Cambridge amico dit me que Occidental es.Li Europan lingues es membres del sam familie. Lor separat existentie es un myth. Por scientie, musica, sport etc, litot Europa usa li sam vocabular. Li lingues differe solmen in li grammatica, li pronunciation e li plu commun vocabules. Omnicos directe al desirabilite de un nov lingua franca: On refusa continuar payar custosi traductores.</p>
+		
+		</div>
+		<!--end of news section here-->
+		
+			</div>
+			
+		</div>
+		
+		
+		
+		
+		<div class="col-sm-4" style="border: 2px groove green; margin-top: 60px;">
+		<div class="search-bar">
+			<input type="text" placeholder="Search here.....">
+			<input type="button" value="Search">
+		</div>
+		<!--search bar finished-->
+		
+		<div class="panel panel-primary">
+			<div class="panel-heading">
+				<h3>RECENT POSTS</h3>
+			</div>
+			<div class="panel-body bg-danger">
+				<p><strong>HTML Basic</strong></p>
+				<p><strong>HTML Topic:1</strong></p>
+				<p><strong>HTML Topic:2</strong></p>
+				<p><strong>HTML Topic:3</strong></p>
+				<p><strong>HTML Topic:4</strong></p>
+					
+				</div>
+		</div> 
+		
+		
+		
+			<div class="panel panel-primary">
+			<div class="panel-heading">
+				<h3>RECENT COMMENTS </h3>
+			</div>
+			<div class="panel-body bg-danger">
+				<p><strong>Rahul Comment On HTML Basic</strong></p>
+				<p><strong>Mohit Comment On HTML Topic:1</strong></p>
+				<p><strong>Pushkar Comment On HTML Topic:2</strong></p>
+				<p><strong>Hemant Comment On HTML Topic:3</strong></p>
+				<p><strong>Pooja Comment On HTML Topic:4</strong></p>
+					
+				</div>
+		</div> 
+		
+		
+		
+			<div class="panel panel-primary">
+			<div class="panel-heading">
+				<h3>ARCHIVES  </h3>
+			</div>
+			<div class="panel-body bg-danger">
+				<p><strong>20 Dec 2017</strong></p>
+			
+					
+				</div>
+		</div> 
+		
+		
+		
+		
+		
+		
+			<div class="panel panel-primary">
+			<div class="panel-heading">
+				<h3>CATEGORIES  </h3>
+			</div>
+			<div class="panel-body bg-danger">
+				<p><strong>HTML</strong></p>
+				<p><strong>CSS</strong></p>
+				<p><strong>JAVASCRIPT</strong></p>
+				<p><strong>JQUERY</strong></p>
+				<p><strong>BOOTSTRAP 4 VERISION</strong></p>
+				<p><strong>PHP</strong></p>
+				<p><strong>MYSQL</strong></p>
+				<p><strong>WORDPRESS</strong></p>
+			
+					
+				</div>
+		</div> 
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		</div>
+		
+		<!---col-4 finished-->
+		
+		
+	</div>
+</div><!-- text container finished here..........-->
+
+<div class="container-fluid">
+
+
+<div class="row">
+	<div class="image">
+		<div class="col-sm-3">
+		
+			<img src="images/6.jpg" class="img-responsive" width="250">
+		</div>
+	
+		
+		<div class="col-sm-3">
+			<img src="images/7.jpg" class="img-responsive" width="350">
+		</div>
+		
+		<div class="col-sm-3">
+			<img src="images/10.jpg" class="img-responsive" width="250">
+		</div>
+		
+		
+		<div class="col-sm-3">
+			<img src="images/9.jpg" class="img-responsive" width="250">
+		</div>
+		
+		</div>
+		
+		
+	</div>
+	
+
+
+
+
+
+
+	<div class="row">
+		<div class="col-sm-4">
+			<p>32-bit and 64-bit, from Windows 10 all the way back to Windows XP. More information available here: https://www.dll-files.com/client/ For individual DLL file installation instructions, please see: https://www.dll-files.com/support/#208335895 If you have any other problems, see our support-section at https://www.dll-files.com/support/  including but not limited to loss of data, damages to hardware, or loss of business profits. </p>
+		</div>
+		
+		<div class="col-sm-4">
+			<p>DISCLAIMER AND LIMITATION OF LIABILITY The Following Refers to all Files with the Extension of "dll" or dlls compressed as "zip". All files are provided on an as is basis. No guarantees or warranties are given or implied. Downloading files from this site is free of charge and the user assumes all risks of any damages that may occur,</p>
+		</div>
+		
+		<div class="col-sm-4">
+			<p>We do our best to ensure that all files are virus-free using available means. However, all files have not been tested for functionality or contamination. Many have been sent to us by visitors like yourself. Thus, we suggest that you do a virus scan using an up-to-date version of an anti-virus program before use. Please use at your own risk.</p>
+		</div>
+		
+	</div>
+	
+	
+	
+	
+	<div class="row">
+		<div class="col-sm-12" align="center">
+			<h3>Copyright &copy; Company Name.........</h3>
+		</div>
+	</div>
+	
+</div>
+
+
+
+
+
+<script type="text/javascript">
+	
+	
+	$(document).ready(function(){
+		var navigasi=$("nav").offset().top;
+		var sticky=function(){
+			var scrolltop=$(window).scrollTop();
+			if(scrolltop > navigasi)
+				{
+					$("nav").addClass("fixed");
+				}else{
+					$("nav").removeClass("fixed");
+				}
+			
+		};
+		sticky();
+		$(window).scroll(function(){
+			sticky();
+		});
+	});	
+	
+	</script>
+
+
+</body>
+</html>

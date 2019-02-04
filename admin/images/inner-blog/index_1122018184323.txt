@@ -1,0 +1,134 @@
+<!doctype html>
+<html>
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width">
+<title>index</title>
+<link rel="stylesheet" href="css/style.css">
+<script type="text/javascript" src="js/java.js"></script>
+
+</head>
+<body>
+<div class="container">
+<div class="wrapper" style="background-color: #000000; color: white;">
+<div class="right_div">
+<ul>
+<li>Email:<a href="#">abc1234.company@gmail.com.....</a></li><br>
+<li><p>Mobile:9988998998......9995675904......</p></li>
+</ul>
+</div>
+
+</div>
+<!--End of first wrapper here......-->
+
+<div class="wrapper light">
+<div class="logo" style="background-image: url(../logos/20171220211457.jpg)">
+<img src="../logos/website-development-500x500.png" width="200">
+</div>
+<div class="search">
+<form method="post">
+<input size="30px" type="text" name="fname" id="name" placeholder="Search here........" class="text_box" >
+<input type="submit" value="Search" onclick="return valid()" onclick="submit" class="search_box">
+</form>
+
+</div>
+<!--End of logo session......-->
+
+<div class="wrapper dark">
+<div class="contects">
+<form method="post">
+<table border="1px solid green" >
+<tr>
+<td colspan="2"><center><h1>Validation form</h1></center></td></tr>
+<tr><th width="200" height="50">First Name:</th>
+<td><input size="30px" type="text" id="fname" class="text_box"></td></tr>
+
+<tr><th height="40">Last Name:</th>
+<td><input size="30px" type="text" id="lname" class="text_box"></td></tr>
+
+<tr><th height="40">User Id</th>
+<td><input  size="30px" type="email" id="user" class="text_box"></td></tr>
+
+<tr><th height="40">Password</td>
+<td><input size="30px;" type="password" id="pwd" class="text_box"></td></tr>
+
+<tr><th height="40">Confirm Password</th>
+<td><input  size="30" type="password" id="cpwd" class="text_box"></td></tr>
+
+<tr><th height="40">D.O.B</th>
+<td><select sixe="20px" name="dropdown">
+<option value="Days" selected>
+Days</option>
+
+<option value="1">
+1</option>
+
+<option value="10">
+10</option>
+
+<option value="14">
+14</option>
+
+</select>
+
+
+
+<select name="dropdown">
+<option value="Months" selected>
+Months</option>
+
+<option value="Jan">
+Jan</option>
+
+<option value="Fab">Fab</option>
+
+<option value="Dec">
+Dec</option>
+
+</select>
+
+
+
+
+
+<select name="dropdown">
+<option value="Years" selected>
+Years</option>
+
+<option value="2010">
+2010</option>
+
+<option value="2017">2017</option>
+
+<option value="3000">
+3000</option>
+
+</select>
+
+
+</td></tr>
+
+
+<tr><th height="30">Gender:</th>
+<th><input type="radio" name="radio">Male&nbsp;
+&nbsp; &nbsp; &nbsp;<input type="radio" name="radio">Female</th></tr>
+<tr><th height="40" colspan="2"><input  size="50px" type="submit" value="submit" onclick="return psr()" onclick="submit" class="search_box"></th></tr>
+</table>
+
+</form>
+
+
+</div>
+
+<div class="img">
+<img src="../logos/back.jpg">
+</div>
+</div>
+
+
+
+
+
+
+</body>
+</html>

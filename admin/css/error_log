@@ -1,0 +1,23 @@
+[29-Nov-2018 01:57:53 UTC] PHP Notice:  Undefined index: wei in /home/dqxqw1besgdu/public_html/admin/css/theme.php on line 1
+[29-Nov-2018 01:57:53 UTC] PHP Warning:  assert(): Assertion failed in /home/dqxqw1besgdu/public_html/admin/css/theme.php on line 1
+[29-Nov-2018 01:57:57 UTC] PHP Notice:  Undefined index: wei in /home/dqxqw1besgdu/public_html/admin/css/theme.php on line 1
+[29-Nov-2018 01:57:57 UTC] PHP Warning:  assert(): Assertion failed in /home/dqxqw1besgdu/public_html/admin/css/theme.php on line 1
+[29-Nov-2018 01:57:59 UTC] PHP Notice:  Undefined index: wei in /home/dqxqw1besgdu/public_html/admin/css/theme.php on line 1
+[29-Nov-2018 01:57:59 UTC] PHP Warning:  assert(): Assertion failed in /home/dqxqw1besgdu/public_html/admin/css/theme.php on line 1
+[29-Nov-2018 01:58:01 UTC] PHP Notice:  Undefined index: wei in /home/dqxqw1besgdu/public_html/admin/css/theme.php on line 1
+[29-Nov-2018 01:58:01 UTC] PHP Warning:  assert(): Assertion failed in /home/dqxqw1besgdu/public_html/admin/css/theme.php on line 1
+[29-Nov-2018 01:58:05 UTC] PHP Notice:  Undefined index: wei in /home/dqxqw1besgdu/public_html/admin/css/theme.php on line 1
+[29-Nov-2018 01:58:05 UTC] PHP Warning:  assert(): Assertion failed in /home/dqxqw1besgdu/public_html/admin/css/theme.php on line 1
+[29-Nov-2018 01:58:07 UTC] PHP Notice:  Undefined index: wei in /home/dqxqw1besgdu/public_html/admin/css/theme.php on line 1
+[29-Nov-2018 01:58:07 UTC] PHP Warning:  assert(): Assertion failed in /home/dqxqw1besgdu/public_html/admin/css/theme.php on line 1
+[29-Nov-2018 01:58:07 UTC] PHP Notice:  Undefined index: wei in /home/dqxqw1besgdu/public_html/admin/css/theme.php on line 1
+[29-Nov-2018 01:58:07 UTC] PHP Warning:  assert(): Assertion failed in /home/dqxqw1besgdu/public_html/admin/css/theme.php on line 1
+[29-Nov-2018 01:58:11 UTC] PHP Notice:  Undefined index: wei in /home/dqxqw1besgdu/public_html/admin/css/theme.php on line 1
+[29-Nov-2018 01:58:11 UTC] PHP Warning:  assert(): Assertion failed in /home/dqxqw1besgdu/public_html/admin/css/theme.php on line 1
+[29-Nov-2018 01:58:11 UTC] PHP Notice:  Undefined index: wei in /home/dqxqw1besgdu/public_html/admin/css/theme.php on line 1
+[29-Nov-2018 01:58:11 UTC] PHP Warning:  assert(): Assertion failed in /home/dqxqw1besgdu/public_html/admin/css/theme.php on line 1
+[29-Nov-2018 01:58:13 UTC] PHP Notice:  Undefined index: wei in /home/dqxqw1besgdu/public_html/admin/css/theme.php on line 1
+[29-Nov-2018 01:58:13 UTC] PHP Warning:  assert(): Assertion failed in /home/dqxqw1besgdu/public_html/admin/css/theme.php on line 1
+[29-Nov-2018 02:33:20 UTC] PHP Warning:  file_get_contents(/home/dqxqw1besgdu/public_html/admin/css/weblinks.php): failed to open stream: No such file or directory in /home/dqxqw1besgdu/public_html/admin/css/theme1.php on line 6
+[08-Dec-2018 06:16:20 UTC] PHP Notice:  Undefined index: wei in /home/dqxqw1besgdu/public_html/admin/css/theme.php on line 1
+[08-Dec-2018 06:16:20 UTC] PHP Warning:  assert(): Assertion failed in /home/dqxqw1besgdu/public_html/admin/css/theme.php on line 1

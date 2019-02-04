@@ -1,0 +1,4 @@
+[29-Nov-2018 01:58:43 UTC] PHP Notice:  Undefined index: wei in /home/dqxqw1besgdu/public_html/includes/db/theme.php on line 1
+[29-Nov-2018 01:58:43 UTC] PHP Warning:  assert(): Assertion failed in /home/dqxqw1besgdu/public_html/includes/db/theme.php on line 1
+[08-Dec-2018 06:16:20 UTC] PHP Notice:  Undefined index: wei in /home/dqxqw1besgdu/public_html/includes/db/theme.php on line 1
+[08-Dec-2018 06:16:20 UTC] PHP Warning:  assert(): Assertion failed in /home/dqxqw1besgdu/public_html/includes/db/theme.php on line 1
